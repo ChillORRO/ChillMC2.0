@@ -1329,3 +1329,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [04Mar2025 22:29:33.234] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [04Mar2025 22:29:33.234] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
 [04Mar2025 22:29:33.235] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[04Mar2025 22:35:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Sweet Dreams]
+[04Mar2025 22:40:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Not Today, Thank You]
+[04Mar2025 22:40:41.720] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.820] [Worker-Main-30/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Mar2025 22:40:42.027] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp

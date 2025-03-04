@@ -5954,3 +5954,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [04Mar2025 22:31:40.314] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-294, y=70, z=51}) doesn't have enough leaves around top most log
 [04Mar2025 22:31:46.009] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-291, y=71, z=53}) doesn't have enough leaves around top most log
 [04Mar2025 22:32:06.708] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-290, y=71, z=54}) doesn't have enough leaves around top most log
+[04Mar2025 22:33:23.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 22:33:23.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 22:35:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Sweet Dreams]
+[04Mar2025 22:38:23.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 22:38:23.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 22:40:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Not Today, Thank You]
+[04Mar2025 22:40:41.720] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.721] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 22:40:41.820] [Worker-Main-30/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[04Mar2025 22:40:42.027] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
