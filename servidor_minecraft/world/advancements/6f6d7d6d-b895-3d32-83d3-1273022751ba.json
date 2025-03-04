@@ -1,13 +1,113 @@
 {
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "seasonal_forest": "2025-03-04 20:26:59 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-04 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-04 20:26:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-04 22:22:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-04 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-04 22:22:38 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-03-04 22:24:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-03-04 20:26:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-04 20:26:59 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-04 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2025-03-04 22:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-03-04 22:20:01 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-04 22:12:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-03-04 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-04 22:16:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "spider_nest": "2025-03-04 22:16:13 +0000",
+      "seasonal_orchard": "2025-03-04 22:24:24 +0000",
+      "seasonal_forest": "2025-03-04 20:26:59 +0000",
+      "lavender_field": "2025-03-04 22:25:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-04 22:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-03-04 22:24:16 +0000",
+      "minecraft:plains": "2025-03-04 22:25:26 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "seasonal_forest": "2025-03-04 20:26:59 +0000"
     },
     "done": true
   },
@@ -23,15 +123,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "log_spam_fixer": "2025-03-04 20:26:59 +0000"
-    },
-    "done": false
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-04 20:26:58 +0000"
+      "iron_pickaxe": "2025-03-04 22:20:56 +0000"
     },
     "done": true
   },
@@ -41,9 +135,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:grant_patchouli": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "tick": "2025-03-04 20:26:58 +0000"
+      "stone_pickaxe": "2025-03-04 22:20:46 +0000"
     },
     "done": true
   },
@@ -52,12 +146,6 @@
       "requirement": "2025-03-04 20:26:58 +0000"
     },
     "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-04 20:26:59 +0000"
-    },
-    "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -71,15 +159,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skunk": {
+  "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
-      "ex": "2025-03-04 22:10:22 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-03-04 22:12:28 +0000"
+      "inscription_table": "2025-03-04 22:20:13 +0000"
     },
     "done": true
   },
@@ -89,22 +171,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "blaze_rod": "2025-03-04 22:16:20 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "spider_nest": "2025-03-04 22:16:13 +0000",
-      "seasonal_forest": "2025-03-04 20:26:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-03-04 22:15:44 +0000"
+      "killed_something": "2025-03-04 22:22:04 +0000"
     },
     "done": true
   },
@@ -117,6 +186,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-04 22:16:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-04 22:20:13 +0000"
     },
     "done": true
   },
