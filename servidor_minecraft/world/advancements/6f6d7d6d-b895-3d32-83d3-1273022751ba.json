@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-05 05:37:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-03-04 20:26:59 +0000"
@@ -25,7 +31,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-03-04 22:22:38 +0000"
+      "minecraft:pillager": "2025-03-05 05:01:10 +0000",
+      "minecraft:skeleton": "2025-03-05 05:40:32 +0000",
+      "minecraft:vindicator": "2025-03-05 05:04:53 +0000",
+      "minecraft:spider": "2025-03-05 05:02:11 +0000",
+      "minecraft:zombie": "2025-03-04 22:22:38 +0000",
+      "minecraft:zombie_villager": "2025-03-05 05:38:06 +0000"
     },
     "done": false
   },
@@ -53,18 +64,23 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-05 04:31:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-03-05 11:45:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skunk": {
     "criteria": {
       "ex": "2025-03-04 22:10:22 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-03-04 22:20:01 +0000",
-      "cooked_chicken": "2025-03-04 22:32:46 +0000"
-    },
-    "done": false
   },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
@@ -72,15 +88,36 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-03-04 22:41:09 +0000",
+      "bread": "2025-03-04 22:20:01 +0000",
+      "cooked_chicken": "2025-03-04 22:32:46 +0000",
+      "cooked_salmon": "2025-03-05 04:26:53 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-03-04 22:27:20 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-05 04:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-03-04 22:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-05 05:01:22 +0000"
     },
     "done": true
   },
@@ -99,18 +136,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-03-04 22:24:16 +0000",
+      "minecraft:meadow": "2025-03-05 05:09:05 +0000",
+      "minecraft:plains": "2025-03-04 22:25:26 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-03-04 22:28:49 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-03-04 22:24:16 +0000",
-      "minecraft:plains": "2025-03-04 22:25:26 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -121,6 +159,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-04 22:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-05 05:01:10 +0000"
     },
     "done": true
   },
@@ -172,15 +216,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-04 22:12:25 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-03-04 22:20:13 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "iron": "2025-03-04 22:12:25 +0000"
+      "find_artifact": "2025-03-05 11:44:58 +0000"
     },
     "done": true
   },
@@ -189,6 +239,12 @@
       "killed_something": "2025-03-04 22:22:04 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_stone": "2025-03-05 05:30:12 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
@@ -208,9 +264,27 @@
     },
     "done": true
   },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-03-05 04:17:07 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-03-04 22:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-04 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-05 05:01:22 +0000"
     },
     "done": true
   },
