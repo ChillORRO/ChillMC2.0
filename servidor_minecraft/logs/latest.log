@@ -1328,3 +1328,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [05Mar2025 11:53:05.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
 [05Mar2025 11:53:07.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1078, l='ServerLevel[world]', x=-622.83, y=66.02, z=-10.53] died, message: 'Farmer was shot by Pillager'
 [05Mar2025 11:53:25.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1084, l='ServerLevel[world]', x=-670.46, y=69.00, z=25.49] died, message: 'Cartographer was slain by Vindicator'
+[05Mar2025 11:53:33.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1090, l='ServerLevel[world]', x=-675.50, y=70.00, z=14.79] died, message: 'Nitwit was slain by Vindicator'
+[05Mar2025 11:53:33.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Mar2025 11:54:08.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1151, l='ServerLevel[world]', x=-607.50, y=66.00, z=32.23] died, message: 'Villager was slain by Vindicator'
+[05Mar2025 11:58:00.698] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:00.700] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:00.701] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:00.702] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:00.930] [Worker-Main-12/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key range in MapLike[{event_delay:0,selector:{tick:-1L}}]; No key source in MapLike[{event_delay:0,selector:{tick:-1L}}]
+[05Mar2025 11:58:34.085] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:34.086] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:34.087] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:34.095] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:58:34.096] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Mar2025 11:59:01.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38749ms or 774 ticks behind
+[05Mar2025 11:59:01.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[05Mar2025 11:59:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[05Mar2025 11:59:06.804] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bdfb12c
+[05Mar2025 11:59:06.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKA_Milen[/172.25.192.229:60633] logged in with entity id 5501 at (-555.6728442240394, 72.0, -262.57573564970005)
+[05Mar2025 11:59:06.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen joined the game
+[05Mar2025 12:00:47.986] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[05Mar2025 12:00:47.989] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[05Mar2025 12:00:47.990] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Mar2025 12:00:47.991] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[05Mar2025 12:00:47.992] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[05Mar2025 12:00:47.992] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[05Mar2025 12:00:47.994] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[05Mar2025 12:00:47.994] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[05Mar2025 12:00:47.995] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[05Mar2025 12:00:47.996] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[05Mar2025 12:00:47.996] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[05Mar2025 12:00:48.012] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.014] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.051] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.051] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.052] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.057] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.058] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Mar2025 12:00:48.059] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[05Mar2025 12:00:48.059] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[05Mar2025 12:00:48.060] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[05Mar2025 12:00:48.060] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[05Mar2025 12:00:48.061] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[05Mar2025 12:00:48.061] [Worker-Main-12/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[05Mar2025 12:00:48.062] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Mar2025 12:00:48.063] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Mar2025 12:00:48.063] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Mar2025 12:00:48.064] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Mar2025 12:00:48.064] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[05Mar2025 12:00:48.065] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[05Mar2025 12:02:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has completed the challenge [Hero of the Village]
