@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
@@ -77,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-03-06 18:05:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2025-03-04 22:28:49 +0000"
@@ -116,12 +116,6 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2025-03-06 17:13:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
     },
     "done": false
   },
@@ -460,12 +454,6 @@
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-03-06 17:13:28 +0000"
@@ -522,10 +510,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-03-06 17:59:45 +0000",
+      "rocky_shrubland": "2025-03-06 17:59:29 +0000",
       "spider_nest": "2025-03-04 22:16:13 +0000",
       "seasonal_orchard": "2025-03-04 22:24:24 +0000",
       "seasonal_forest": "2025-03-04 20:26:59 +0000",
-      "lavender_field": "2025-03-04 22:25:07 +0000"
+      "lavender_field": "2025-03-04 22:25:07 +0000",
+      "prairie": "2025-03-06 18:06:21 +0000"
     },
     "done": false
   },
@@ -540,12 +531,6 @@
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -622,18 +607,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-04 22:22:04 +0000"
@@ -688,12 +661,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-03-06 17:00:20 +0000"
@@ -718,28 +685,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-05 05:01:10 +0000",
       "minecraft:skeleton": "2025-03-05 05:40:32 +0000",
+      "minecraft:ravager": "2025-03-06 18:10:35 +0000",
       "minecraft:vindicator": "2025-03-05 05:04:53 +0000",
       "minecraft:spider": "2025-03-05 05:02:11 +0000",
       "minecraft:witch": "2025-03-06 17:08:41 +0000",
@@ -754,11 +710,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
+      "bred": "2025-03-06 17:38:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
@@ -838,12 +794,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-04 22:12:26 +0000"
@@ -903,12 +853,6 @@
       "has_item": "2025-03-04 22:09:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 17:36:52 +0000"
-    },
-    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {

@@ -3305,3 +3305,64 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [06Mar2025 17:36:01.010] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [06Mar2025 17:36:01.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8793ms or 175 ticks behind
 [06Mar2025 17:38:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [The Parrots and the Bats]
+[06Mar2025 17:52:26.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AKA_Milen a server operator
+[06Mar2025 17:52:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -594.500000, 67.500000, 20.500000]
+[06Mar2025 17:54:38.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -289.500000, 70.500000, 57.500000]
+[06Mar2025 17:55:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -581.500000, 70.500000, 56.500000]
+[06Mar2025 17:55:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -295.500000, 69.500000, 61.500000]
+[06Mar2025 17:55:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -590.500000, 70.500000, 67.500000]
+[06Mar2025 17:56:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -534.500000, 75.500000, 100.500000]
+[06Mar2025 17:56:50.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -500.500000, 116.500000, 66.500000]
+[06Mar2025 17:57:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -650.500000, 63.500000, -111.500000]
+[06Mar2025 17:57:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -574.500000, 72.500000, -259.500000]
+[06Mar2025 17:57:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -282.500000, 70.500000, 49.500000]
+[06Mar2025 17:58:10.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -123.500000, 71.500000, 0.500000]
+[06Mar2025 17:58:14.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/22153, l='ServerLevel[world]', x=-127.08, y=71.66, z=1.31] died, message: 'Butcher tried to swim in lava'
+[06Mar2025 17:58:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 229.500000, 122.500000, 128.500000]
+[06Mar2025 17:58:27.720] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[06Mar2025 17:58:27.750] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[06Mar2025 17:58:27.750] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[06Mar2025 17:58:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 225.500000, 68.500000, 398.500000]
+[06Mar2025 17:58:40.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 355.500000, 89.500000, 399.500000]
+[06Mar2025 17:58:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 172.500000, 65.500000, 436.500000]
+[06Mar2025 17:58:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 409.500000, 93.500000, 446.500000]
+[06Mar2025 17:59:07.113] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Mar2025 17:59:07.113] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Mar2025 17:59:07.114] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Mar2025 17:59:07.114] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Mar2025 17:59:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -39.500000, 84.500000, 408.500000]
+[06Mar2025 17:59:09.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[06Mar2025 17:59:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 117.500000, 101.500000, -212.500000]
+[06Mar2025 17:59:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 18.500000, 70.500000, -289.500000]
+[06Mar2025 17:59:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -26.500000, 64.500000, -294.500000]
+[06Mar2025 18:00:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -123.500000, 106.500000, -584.500000]
+[06Mar2025 18:00:29.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 8.500000, 79.500000, -672.500000]
+[06Mar2025 18:00:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 7.500000, 110.500000, -715.500000]
+[06Mar2025 18:00:46.261] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=17, y=-23, z=-797} but found not block entity block Block{minecraft:cave_air} at location
+[06Mar2025 18:00:46.262] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=17, y=-23, z=-797}
+[06Mar2025 18:00:49.494] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[06Mar2025 18:01:12.605] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[06Mar2025 18:05:49.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [You've Got a Friend in Me]
+[06Mar2025 18:06:26.178] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[06Mar2025 18:06:26.196] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-105, y=-57, z=2207}
+[06Mar2025 18:06:26.486] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[06Mar2025 18:06:26.487] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[06Mar2025 18:06:26.487] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[06Mar2025 18:06:26.488] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[06Mar2025 18:06:26.490] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[06Mar2025 18:06:26.490] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[06Mar2025 18:06:26.491] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[06Mar2025 18:06:26.491] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[06Mar2025 18:06:26.492] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[06Mar2025 18:06:26.492] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[06Mar2025 18:06:26.494] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[06Mar2025 18:06:26.902] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2192}
+[06Mar2025 18:06:35.027] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[06Mar2025 18:06:35.040] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[06Mar2025 18:07:09.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -284.500000, 70.500000, 59.500000]
+[06Mar2025 18:08:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: The difficulty has been set to Easy]
+[06Mar2025 18:11:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was killed by Iceologer using magic
+[06Mar2025 18:12:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was killed by Iceologer using magic
+[06Mar2025 18:14:31.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: The difficulty has been set to Peaceful]
+[06Mar2025 18:14:35.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: The difficulty has been set to Normal]
+[06Mar2025 18:17:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [What a Deal!]
