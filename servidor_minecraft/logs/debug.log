@@ -9324,3 +9324,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [06Mar2025 17:29:36.357] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Mar2025 17:29:36.358] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Mar2025 17:29:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Who's the Pillager Now?]
+[06Mar2025 17:31:11.853] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Mar2025 17:31:44.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 17:31:44.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 17:32:17.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5435, l='ServerLevel[world]', x=-274.50, y=93.00, z=-630.50] died, message: 'Villager went up in flames'
+[06Mar2025 17:35:54.019] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:35:54.020] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:35:58.859] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:35:59.750] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:36:00.907] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:36:01.010] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[06Mar2025 17:36:01.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8793ms or 175 ticks behind
+[06Mar2025 17:36:53.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Mar2025 17:36:53.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Mar2025 17:38:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [The Parrots and the Bats]
