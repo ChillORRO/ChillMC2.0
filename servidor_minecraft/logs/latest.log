@@ -1325,3 +1325,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [07Mar2025 15:53:59.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-290, y=72, z=53} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [07Mar2025 15:54:02.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
 [07Mar2025 15:54:20.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[07Mar2025 16:03:29.311] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[07Mar2025 16:03:29.349] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[07Mar2025 16:03:29.350] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[07Mar2025 16:10:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:10:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 293.500000, 56.500000, 360.500000]
+[07Mar2025 16:10:52.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen drowned whilst trying to escape Archevoker
+[07Mar2025 16:10:56.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 283.500000, 60.500000, 398.500000]
+[07Mar2025 16:11:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:11:33.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 265.500000, 58.500000, 450.500000]
+[07Mar2025 16:12:14.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[07Mar2025 16:12:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:12:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 249.500000, 56.500000, 479.500000]
+[07Mar2025 16:13:14.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was eviscerated by Archevoker's vexes
+[07Mar2025 16:13:20.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 257.500000, 61.500000, 483.500000]
+[07Mar2025 16:13:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:13:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 269.500000, 62.500000, 506.500000]
+[07Mar2025 16:13:51.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[07Mar2025 16:14:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen was caught by Archevoker's fangs
+[07Mar2025 16:14:21.509] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[07Mar2025 16:14:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 256.500000, 56.500000, 512.500000]
+[07Mar2025 16:14:28.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[07Mar2025 16:14:48.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:14:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 255.500000, 59.500000, 503.500000]
+[07Mar2025 16:16:32.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen went off with a bang thanks to Archevoker
+[07Mar2025 16:16:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 248.500000, 66.500000, 405.500000]
+[07Mar2025 16:16:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has completed the challenge [Premium!]
