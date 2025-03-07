@@ -273,6 +273,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-05 11:56:59 +0000",
       "cooked_mutton": "2025-03-04 22:41:09 +0000",
+      "cooked_beef": "2025-03-07 16:18:53 +0000",
       "bread": "2025-03-04 22:20:01 +0000",
       "golden_apple": "2025-03-06 17:13:24 +0000",
       "cooked_chicken": "2025-03-04 22:32:46 +0000",
@@ -595,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-07 16:33:30 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
@@ -857,6 +864,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-07 16:27:17 +0000"
     },
     "done": true
   },

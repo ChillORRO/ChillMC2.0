@@ -7057,3 +7057,91 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [07Mar2025 16:16:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has completed the challenge [Premium!]
 [07Mar2025 16:16:52.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 16:16:52.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:21:52.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:21:52.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:21:55.413] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.413] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.413] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.413] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.413] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.414] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.414] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:21:55.414] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[07Mar2025 16:24:36.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -597.500000, 68.500000, 164.500000]
+[07Mar2025 16:25:03.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -567.500000, 75.500000, 312.500000]
+[07Mar2025 16:25:26.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[07Mar2025 16:25:48.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -697.500000, 85.500000, 377.500000]
+[07Mar2025 16:26:03.190] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[07Mar2025 16:26:03.213] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:03.213] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:03.214] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:03.214] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:05.526] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:05.529] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:26:54.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:26:54.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:27:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -683.500000, 78.500000, 468.500000]
+[07Mar2025 16:27:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -467.500000, 70.500000, 442.500000]
+[07Mar2025 16:27:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [This Must be a Sign!]
+[07Mar2025 16:27:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -255.500000, 65.500000, 441.500000]
+[07Mar2025 16:27:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -8.500000, 72.500000, 531.500000]
+[07Mar2025 16:29:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -114.500000, 68.500000, 650.500000]
+[07Mar2025 16:29:22.574] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:22.575] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:22.576] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:22.576] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:23.190] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-187, y=67, z=635} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[07Mar2025 16:29:23.191] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-187, y=67, z=635}
+[07Mar2025 16:29:24.402] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:24.402] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:24.403] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:24.403] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:29:30.141] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:30:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 144.500000, 114.500000, 562.500000]
+[07Mar2025 16:30:31.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -63.500000, 79.500000, 784.500000]
+[07Mar2025 16:30:36.870] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[07Mar2025 16:30:36.870] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[07Mar2025 16:30:36.871] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[07Mar2025 16:30:36.871] [Worker-Main-47/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[07Mar2025 16:30:36.872] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[07Mar2025 16:30:36.872] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[07Mar2025 16:30:36.872] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[07Mar2025 16:30:36.873] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.873] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.873] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.873] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.874] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.874] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:36.874] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[07Mar2025 16:30:36.874] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[07Mar2025 16:30:36.875] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[07Mar2025 16:30:36.875] [Worker-Main-47/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[07Mar2025 16:30:36.875] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[07Mar2025 16:30:36.875] [Worker-Main-47/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[07Mar2025 16:30:39.701] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:39.702] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:39.728] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[07Mar2025 16:30:39.728] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[07Mar2025 16:30:39.729] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[07Mar2025 16:30:39.729] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[07Mar2025 16:30:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -126.500000, 70.500000, 811.500000]
+[07Mar2025 16:30:41.959] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[07Mar2025 16:30:49.753] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Mar2025 16:30:49.753] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Mar2025 16:31:27.953] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[07Mar2025 16:31:27.955] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[07Mar2025 16:31:27.956] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[07Mar2025 16:31:30.385] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[07Mar2025 16:31:30.385] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[07Mar2025 16:31:54.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:31:54.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:32:18.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/15552, l='ServerLevel[world]', x=28.66, y=86.00, z=1043.97] died, message: 'Cleric was shot by Illusioner'
+[07Mar2025 16:32:57.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/15553, l='ServerLevel[world]', x=21.53, y=88.10, z=1032.74] died, message: 'Leatherworker was shot by Illusioner'
+[07Mar2025 16:33:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Local Brewery]
+[07Mar2025 16:34:01.529] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:34:01.530] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:34:01.531] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:34:01.531] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:36:38.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -292.500000, 73.500000, 49.500000]
+[07Mar2025 16:36:54.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:36:54.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
