@@ -7211,3 +7211,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [07Mar2025 16:58:20.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [dd45d5a1-e457-4b1d-a31b-0f8bc1d44274]
 [07Mar2025 16:59:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [07Mar2025 16:59:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Rocks Off!]
+[07Mar2025 17:01:57.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 17:01:57.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 17:02:45.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[07Mar2025 17:02:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[07Mar2025 17:03:03.581] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[07Mar2025 17:03:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 17:03:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 17:03:03.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 17:03:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 17:03:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Mar2025 17:03:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Mar2025 17:03:05.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 17:03:05.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 17:03:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Mar2025 17:03:05.621] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[07Mar2025 17:03:05.622] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[07Mar2025 17:03:05.622] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Mar2025 17:03:05.623] [Thread-0/DEBUG] [fuzs.puzzleslib.config.core.ForgeConfigFileTypeHandler/CONFIG]: Config file easyanvils-server.toml changed, sending notifies
+[07Mar2025 17:03:05.624] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easyanvils

@@ -1452,3 +1452,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [07Mar2025 16:57:00.881] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Mar2025 16:59:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [07Mar2025 16:59:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Rocks Off!]
+[07Mar2025 17:02:45.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKA_Milen lost connection: Disconnected
+[07Mar2025 17:02:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen left the game
+[07Mar2025 17:03:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 17:03:03.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 17:03:03.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 17:03:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 17:03:05.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Mar2025 17:03:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 17:03:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 17:03:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Mar2025 17:03:05.624] [Thread-0/INFO] [Puzzles Lib/]: Unloading server config for easyanvils
