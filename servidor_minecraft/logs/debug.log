@@ -7145,3 +7145,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'hauntedharvest:flag'
 [07Mar2025 16:36:38.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -292.500000, 73.500000, 49.500000]
 [07Mar2025 16:36:54.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 16:36:54.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:41:54.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:41:54.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:46:54.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:46:54.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:51:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 133.500000, 78.500000, -906.500000]
+[07Mar2025 16:51:54.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:51:54.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:52:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has completed the challenge [When the Stew is Sus]
+[07Mar2025 16:52:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -15.500000, 109.500000, -749.500000]
+[07Mar2025 16:53:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to -291.500000, 70.500000, 56.500000]
+[07Mar2025 16:53:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 84.500000, 66.500000, 148.500000]
+[07Mar2025 16:53:52.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 154.500000, 68.500000, 232.500000]
+[07Mar2025 16:53:59.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 9.500000, 75.500000, 536.500000]
+[07Mar2025 16:54:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 164.500000, 72.500000, 1179.500000]
+[07Mar2025 16:54:14.863] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[07Mar2025 16:54:14.863] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[07Mar2025 16:54:14.864] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[07Mar2025 16:54:14.864] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[07Mar2025 16:54:14.865] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[07Mar2025 16:54:14.865] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[07Mar2025 16:54:21.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[07Mar2025 16:54:41.494] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[07Mar2025 16:54:54.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 119.500000, 64.500000, 1275.500000]
+[07Mar2025 16:55:12.689] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:12.689] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:26.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 66.500000, 32.500000, 1385.500000]
+[07Mar2025 16:55:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Chest Slayer]
+[07Mar2025 16:55:50.238] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:50.239] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:50.239] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:50.240] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:55:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AKA_Milen: Teleported AKA_Milen to 14.500000, 33.500000, 1450.500000]
+[07Mar2025 16:56:31.951] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:31.970] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:32.208] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:32.213] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:32.316] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:32.320] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:39.619] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:39.632] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:39.634] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=242, y=64, z=1620}
+[07Mar2025 16:56:39.635] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=249, y=64, z=1620}
+[07Mar2025 16:56:39.635] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=249, y=64, z=1613}
+[07Mar2025 16:56:39.665] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:39.672] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=253, y=78, z=1632}
+[07Mar2025 16:56:39.672] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:39.676] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=242, y=64, z=1620}
+[07Mar2025 16:56:39.676] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=249, y=64, z=1620}
+[07Mar2025 16:56:39.677] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=255, y=64, z=1627}
+[07Mar2025 16:56:39.883] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:39.897] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=253, y=78, z=1632}
+[07Mar2025 16:56:39.897] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:47.133] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:47.142] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:47.145] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=262, y=64, z=1614}
+[07Mar2025 16:56:47.215] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:47.228] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:47.242] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=262, y=64, z=1614}
+[07Mar2025 16:56:47.562] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=256, y=83, z=1600}
+[07Mar2025 16:56:47.565] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=233, y=71, z=1637}
+[07Mar2025 16:56:57.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 16:56:57.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 16:57:00.881] [Worker-Main-65/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Mar2025 16:58:20.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [dd45d5a1-e457-4b1d-a31b-0f8bc1d44274]
+[07Mar2025 16:59:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[07Mar2025 16:59:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKA_Milen has made the advancement [Rocks Off!]

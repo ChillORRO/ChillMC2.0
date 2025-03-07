@@ -276,6 +276,7 @@
       "cooked_beef": "2025-03-07 16:18:53 +0000",
       "bread": "2025-03-04 22:20:01 +0000",
       "golden_apple": "2025-03-06 17:13:24 +0000",
+      "suspicious_stew": "2025-03-07 16:52:02 +0000",
       "cooked_chicken": "2025-03-04 22:32:46 +0000",
       "cooked_salmon": "2025-03-05 04:26:53 +0000"
     },
@@ -431,6 +432,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-07 16:55:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
@@ -548,11 +555,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-04 22:24:16 +0000",
+      "minecraft:stony_shore": "2025-03-07 16:51:39 +0000",
       "minecraft:forest": "2025-03-06 17:34:24 +0000",
+      "minecraft:ocean": "2025-03-07 16:51:44 +0000",
+      "minecraft:flower_forest": "2025-03-07 16:51:18 +0000",
       "minecraft:meadow": "2025-03-05 05:09:05 +0000",
       "minecraft:plains": "2025-03-04 22:25:26 +0000"
     },
     "done": false
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-03-07 16:52:02 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -634,6 +650,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_taiga": "2025-03-07 16:55:53 +0000",
       "in_mineshaft_stone": "2025-03-05 05:30:12 +0000"
     },
     "done": false
@@ -718,6 +735,7 @@
       "minecraft:vindicator": "2025-03-05 05:04:53 +0000",
       "minecraft:spider": "2025-03-05 05:02:11 +0000",
       "minecraft:witch": "2025-03-06 17:08:41 +0000",
+      "minecraft:cave_spider": "2025-03-07 16:56:16 +0000",
       "minecraft:zombie": "2025-03-04 22:22:38 +0000",
       "minecraft:zombie_villager": "2025-03-05 05:38:06 +0000"
     },
