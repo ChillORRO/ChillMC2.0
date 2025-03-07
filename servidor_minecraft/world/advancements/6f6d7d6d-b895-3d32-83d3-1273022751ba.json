@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
@@ -128,12 +122,6 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2025-03-06 17:13:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
     },
     "done": false
   },
@@ -472,12 +460,6 @@
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-03-06 17:13:28 +0000"
@@ -556,12 +538,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-04 22:24:16 +0000",
@@ -637,18 +613,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-04 22:22:04 +0000"
@@ -703,12 +667,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-03-06 17:00:20 +0000"
@@ -733,23 +691,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-06 17:00:20 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -769,12 +715,6 @@
       "has_qq": "2025-03-06 17:00:20 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -872,12 +812,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-04 22:12:26 +0000"
@@ -937,12 +871,6 @@
       "has_item": "2025-03-04 22:09:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 18:43:01 +0000"
-    },
-    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
